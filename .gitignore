@@ -1,0 +1,12 @@
+/BasicReceive/.vscode/*
+/BasicReceive/bin/*
+/BasicReceive/obj/*
+/BasicSend/.vscode/*
+/BasicSend/bin/*
+/BasicSend/obj/*
+/QueueNewTask/.vscode/*
+/QueueNewTask/bin/*
+/QueueNewTask/obj/*
+/QueueWorker/.vscode/*
+/QueueWorker/bin/*
+/QueueWorker/obj/*

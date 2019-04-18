@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "BasicReceive"
+		},
+		{
+			"path": "BasicSend"
+		},
+		{
+			"path": "QueueNewTask"
+		},
+		{
+			"path": "QueueWorker"
+		}
+	]
+}
